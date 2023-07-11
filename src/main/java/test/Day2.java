@@ -24,4 +24,9 @@ public class Day2 {
     public void showThree(){
         System.out.println("Day2->show three method");
     }
+    @Test
+    public void showFour(){
+        System.out.println("Day2->show four method");
+    }
+
 }

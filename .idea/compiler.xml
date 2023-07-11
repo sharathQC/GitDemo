@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="GitX" />
+=======
+        <module name="GitDemo" />
+>>>>>>> 2aafd668b957074efff6ce00a9b8fc7d1702ac28
       </profile>
     </annotationProcessing>
   </component>
