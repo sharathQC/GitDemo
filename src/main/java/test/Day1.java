@@ -18,4 +18,9 @@ public class Day1 {
     public void displayOne(){
         System.out.println("Day1->displayOne method");
     }
+
+    @Test
+    public void displayTwo(){
+        System.out.println("Day1->displayTwo method");
+    }
 }
