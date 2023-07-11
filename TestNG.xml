@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests" thread-count="5">
+    <test verbose="2" preserve-order="true" name="C:/Users/GSHARATH/IdeaProjects/TestNGTutorial">
+        <classes>
+            <class name="test.Day1">
+                <methods>
+                    <include name="display"/>
+                    <include name="displayOne"/>
+                </methods>
+            </class>
+
+            <class name="test.Day2">
+                <methods>
+                    <include name="show"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Office">
+        <classes>
+            <class name="test.Day3">
+                <methods>
+
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Home">
+        <classes>
+            <class name="test.Day4">
+                <methods>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
