@@ -8,6 +8,10 @@ public class Day2 {
     @Test
     public void show(){
         System.out.println("Day2->show one method");
+        System.out.println("Day2.1->show one method");
+        System.out.println("Day2.2->show one method");
+        System.out.println("Day2.3->show one method");
+        System.out.println("Day2.4->show one method");
     }
 
     @Test
