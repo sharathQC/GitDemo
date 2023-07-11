@@ -10,6 +10,8 @@ public class Day1 {
     @Test
     public void display(String site, String uname){
         System.out.println("Day1->display method"+" : "+site+" :: "+uname);
+        System.out.println("Day2->display method"+" : "+site+" :: "+uname);
+        System.out.println("Day3->display method"+" : "+site+" :: "+uname);
     }
 
     @Test
