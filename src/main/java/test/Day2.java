@@ -32,5 +32,8 @@ public class Day2 {
     public void showFive(){
         System.out.println("Day2->show five method");
     }
-
+    @Test
+    public void showSix(){
+        System.out.println("Day2->show five method");
+    }
 }

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 20:27:06.412 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
 20:27:06.421 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+=======
+20:16:54.660 [AWT-EventQueue-0] INFO  c.b.actions.EnableBrowserStack - Setting enable browserstack run update
+20:16:54.675 [AWT-EventQueue-0] INFO  c.b.actions.DisableBrowserStack - Setting disable browserstack run update
+>>>>>>> 2da507864c60d23f524fe199994ce986cbee2ffe
