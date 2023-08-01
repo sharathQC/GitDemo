@@ -23,6 +23,11 @@ public class Day4 {
         System.out.println("HOME KITCHEN");
     }
 
+    @Test
+    public void kitchenOne(){
+        System.out.println("HOME KITCHEN");
+    }
+
     @BeforeMethod
     public void preMethod(){
         System.out.println("Before Method: HOME DAY4 Class");
